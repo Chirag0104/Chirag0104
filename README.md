@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🙂 Currently a second year student pursuing CSE.
+- 🙂 Currently a Third year student pursuing CSE.
 
 - 🌱 I’m currently learning **Blockchain and Data Structures and Algorithms.**
 
